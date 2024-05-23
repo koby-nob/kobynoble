@@ -6,4 +6,4 @@
   - [osTicket: Prerequisites and Installation]
   - [osTicket: Post-Installation Configuration]
 - <b>Microsoft Azure</b>
-  -[Configuration Active Directory within Azure VMs]
+  -[Configuring Active Directory within Azure VMs]
