@@ -3,4 +3,7 @@
 <h2> Technical Support & Helpdesk Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](
+  - [osTicket: Prerequisites and Installation]
+  - [osTicket: Post-Installation Configuration]
+- <b>Microsoft Azure</b>
+  -[Configuration Active Directory within Azure VMs]
