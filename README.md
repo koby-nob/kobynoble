@@ -3,7 +3,7 @@
 <h2> Technical Support & Helpdesk Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation]
-  - [osTicket: Post-Installation Configuration]
+  - [osTicket: Prerequisites and Installation](https://github.com/koby-nob/kobynoble.git/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/koby-nob/kobynoble.git/postinstall-config)
 - <b>Microsoft Azure</b>
   -[Configuring Active Directory within Azure VMs]
