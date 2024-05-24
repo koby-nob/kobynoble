@@ -7,4 +7,4 @@
   
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/koby-nob/kobynoble/blob/main/osTicket%20Pre-Install)
-  - [osTicket: Post-Installation Configuration](https://github.com/koby-nob/kobynoble.git/postinstall-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/koby-nob/kobynoble/blob/main/osTicket%20Post-Install)
