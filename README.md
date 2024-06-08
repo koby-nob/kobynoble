@@ -1,4 +1,4 @@
-<h1>Hi, I'm Koby, an <a href="www.linkedin.com/in/koby-noble-aa1917140">IT Professional</a>
+<h1>Hi, I'm Koby, an <a href="https://www.linkedin.com/in/koby-noble-aa1917140/">IT Professional</a></h1>
 
 <h2> Technical Support & Helpdesk Projects:</h2>
 
