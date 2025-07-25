@@ -1,4 +1,4 @@
-<h1> <a href="https://www.linkedin.com/in/koby-noble-aa1917140/">Security Analyst</a></h1>
+<h1> <a href="https://www.linkedin.com/in/koby-noble-aa1917140/">IT Security Analyst</a></h1>
 
 <h2> Technical Support & Helpdesk Projects:</h2>
 
