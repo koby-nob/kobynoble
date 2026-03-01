@@ -13,6 +13,11 @@
 
 <img width="132" height="132" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/c1b72f82-8835-4b31-b7a6-c0707ee102e0" />
 
+<img width="305" height="201" alt="cert_3" src="https://github.com/user-attachments/assets/4a896a60-004d-4458-86d5-2db3c4e9fba3" />
+
+
+
+
 
 <h2> Cybersecurity Projects in a Controlled Lab Environment:</h2>
 - Conducted TCP and service enumeration using Nmap and Nikto to identify exposed services in a simulated lab enviroment network.
