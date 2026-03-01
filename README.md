@@ -31,5 +31,5 @@
 
 - <b>Using-Nmap-and-Nikto-scanning tools</b>
 
-  - [Using Nmap-and-Niktos-scanning-tools](https://github.com/koby-nob/Using-Nmap-and-Nikto-scanning-tools.git)
+  - [Using Nmap-and-Nikto-scanning-tools](https://github.com/koby-nob/Using-Nmap-and-Nikto-scanning-tools.git)
 
