@@ -2,7 +2,8 @@
 
 <h2> Professional Projects in a Producation Environment:</h2>
 
-- Managed TLS1.2/SHA1 certificate upgrade for Oracle, Micros 3700, e7 POS system for 10K+ merchants for PCI-DSS compliance.
+- Managed TLS1.2/SHA1 certificate upgrade for Oracle, Micros 3700, e7 POS system for 10K+ merchants for PCI-DSS compliance
+  averting $40+k plus in potential penalaties.
 - Coordinated in designing a software bandaid for Windows 7, and Windows NT POS.
   
 - Worked with vendors in migrating Windows Operating System to Android POS (Skytab). 
@@ -14,7 +15,11 @@
 
 
 <h2> Cybersecurity Projects in a Controlled Lab Environment:</h2>
+- Conducted TCP and service enumeration using Nmap and Nikto to identify exposed services in a simulated lab enviroment networks.
 
+- Conducted structured network traffic analysis using wireshark to identify abormal communication patterns, validated host activities,
+  and documented findings aligned with SOC triage methodology.
+  
 - <b>Microsoft Azure</b>
   - [Deploying Active Directory within Micrsoft Azure VMs](https://github.com/koby-nob/Deploying-Active-Directory)
   - [Establish SSH connection between Microsoft Azure VM's](https://github.com/koby-nob/osTicket-Post-Install)
@@ -25,6 +30,6 @@
      - [Virtual Blue Team Lab](https://github.com/koby-nob/Cybersecurity-Projects.git)
 
 - <b>Using-Nmap-and-Nikto-scanning tools</b>
-- Conducted TCP and service enumeration using Nmap and Nikto to identify exposed services in a simulated lab enviroment networks.
+
   - [Using Nmap-and-Niktos-scanning-tools](https://github.com/koby-nob/Using-Nmap-and-Nikto-scanning-tools.git)
 
