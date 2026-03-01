@@ -15,7 +15,7 @@
 
 
 <h2> Cybersecurity Projects in a Controlled Lab Environment:</h2>
-- Conducted TCP and service enumeration using Nmap and Nikto to identify exposed services in a simulated lab enviroment networks.
+- Conducted TCP and service enumeration using Nmap and Nikto to identify exposed services in a simulated lab enviroment network.
 
 - Conducted structured network traffic analysis using wireshark to identify abormal communication patterns, validated host activities,
   and documented findings aligned with SOC triage methodology.
