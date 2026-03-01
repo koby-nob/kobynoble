@@ -2,9 +2,9 @@
 
 <h2> Professional Projects in a Producation Environment:</h2>
 
-- Managed TLS1.2/SHA1 certificate upgrade for Oracle, Micros 3700, e7 POS system for 10K+ merchants for PCI-DSS compliance
+- Managed TLS & SHA1 certificate upgrade for Oracle, Micros 3700, e7 POS system for 10K+ merchants for PCI-DSS compliance
   averting $40+k plus in potential penalaties.
-- Coordinated in designing a software bandaid for Windows 7, and Windows NT POS.
+- Coordinated in designing a software bandaid for Windows 7, and Windows NT POS 
   
 - Worked with vendors in migrating Windows Operating System to Android POS (Skytab). 
 
