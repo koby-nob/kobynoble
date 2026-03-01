@@ -1,6 +1,6 @@
 <h1> <a href="https://www.linkedin.com/in/koby-noble-aa1917140/">Security Analyst</a></h1>
 
-<h2> Professional Projects in a Producation Environment</h2>
+<h2> Professional Projects in a Producation Environment:</h2>
 
 - Managed TLS1.2/SHA1 certificate upgrade for Oracle, Micros 3700, e7 POS system for 10K+ merchants for PCI-DSS compliance.
 - Coordinated in designing a software bandaid for Windows 7, and Windows NT POS.
