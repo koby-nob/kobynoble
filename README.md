@@ -1,6 +1,6 @@
 <h1> <a href="https://www.linkedin.com/in/koby-noble-aa1917140/">Security Analyst</a></h1>
 
-<h2> Technical Support & Helpdesk Projects:</h2>
+<h2> Azure Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [Deploying Active Directory within Micrsoft Azure VMs](https://github.com/koby-nob/Deploying-Active-Directory)
