@@ -24,7 +24,7 @@
 - <b>Creating Virtual Blue Team Environment</b>
      - [Virtual Blue Team Lab](https://github.com/koby-nob/Cybersecurity-Projects.git)
 
-- <b>Using-Nmap-and-Nikot-scanning tools</b>
-
+- <b>Using-Nmap-and-Nikto-scanning tools</b>
+- Conducted TCP and service enumeration using Nmap and Nikto to identify exposed services in a simulated lab enviroment networkds.
   - [Using Nmap-and-Niktos-scanning-tools](https://github.com/koby-nob/Using-Nmap-and-Nikto-scanning-tools.git)
 
