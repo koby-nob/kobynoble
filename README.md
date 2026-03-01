@@ -1,5 +1,12 @@
 <h1> <a href="https://www.linkedin.com/in/koby-noble-aa1917140/">Security Analyst</a></h1>
 
+<h2> Professional Projects</h2>
+
+- Managed TLS1.2/SHA1 certificate upgrade for Oracle, Micros 3700, e7 POS system for 10K+ merchants for PCI-DSS compliance.
+- Coordinated in designing a software bandaid for POS systems operating on Windows 7, and Windows NT.
+  
+- Worked vendors in migrating Windows Operating System to Android POS (Skytab). 
+
 <h2> Certifications</h2>
 <img width="204" height="204" alt="blue-team-level-1-btl1 (1)" src="https://github.com/user-attachments/assets/048ca124-5415-45d7-8e59-683d3f97cded" />
 
