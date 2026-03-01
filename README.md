@@ -13,5 +13,5 @@
 
 - <b>Using-Nmap-and-Nikot-scanning tools</b>
 
-  - [Virtual Blue Team Lab](https://github.com/koby-nob/Using-Nmap-and-Nikto-scanning-tools.git)
+  - [Using Nmap-and-Niktos-scanning-tools](https://github.com/koby-nob/Using-Nmap-and-Nikto-scanning-tools.git)
 
