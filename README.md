@@ -1,6 +1,6 @@
 <h1> <a href="https://www.linkedin.com/in/koby-noble-aa1917140/">Security Analyst</a></h1>
 
-<h2> Professional Projects</h2>
+<h2> Professional Projects in a Producation Environment</h2>
 
 - Managed TLS1.2/SHA1 certificate upgrade for Oracle, Micros 3700, e7 POS system for 10K+ merchants for PCI-DSS compliance.
 - Coordinated in designing a software bandaid for Windows 7, and Windows NT POS.
@@ -13,7 +13,7 @@
 <img width="132" height="132" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/c1b72f82-8835-4b31-b7a6-c0707ee102e0" />
 
 
-<h2> Cybersecurity Projects:</h2>
+<h2> Cybersecurity Projects in a Controlled Lab Environment:</h2>
 
 - <b>Microsoft Azure</b>
   - [Deploying Active Directory within Micrsoft Azure VMs](https://github.com/koby-nob/Deploying-Active-Directory)
