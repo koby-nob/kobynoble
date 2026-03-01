@@ -8,8 +8,6 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/koby-nob/osTicket-Pre-Install)
 
-<h2> Cybersecurity Projects:</h2>
-
 - <b>Creating Virtual Blue Team Environment</b>
      - [Virtual Blue Team Lab](https://github.com/koby-nob/Cybersecurity-Projects.git)
    
