@@ -9,7 +9,7 @@
 - Worked with vendors in migrating Windows Operating System to Android POS (Skytab). 
 
 <h2> Certifications</h2>
-<img width="204" height="204" alt="blue-team-level-1-btl1 (1)" src="https://github.com/user-attachments/assets/048ca124-5415-45d7-8e59-683d3f97cded" />
+<img width="166" height="38" alt="Screenshot_2" src="https://github.com/user-attachments/assets/26d1933d-a38b-46df-b637-97b8da6fedc8" />
 
 <img width="132" height="132" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/c1b72f82-8835-4b31-b7a6-c0707ee102e0" />
 
