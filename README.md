@@ -39,7 +39,7 @@
 
   - [Using Nmap-and-Nikto-scanning-tools](https://github.com/koby-nob/Using-Nmap-and-Nikto-scanning-tools.git)
 
- - <b>Using Wireshark Network Protocol Analyser</b>
+ - <b>Using Wireshark Protocol Analyser</b>
 
      - [Using Wireshark Protocol Analyzer](https://github.com/koby-nob/Using-Wireshark_Network_Protocol_Analyzer.git)
 
