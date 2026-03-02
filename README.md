@@ -11,9 +11,6 @@
 <h2> Certifications</h2>
 <img width="166" height="38" alt="Screenshot_2" src="https://github.com/user-attachments/assets/26d1933d-a38b-46df-b637-97b8da6fedc8" />
 
-<img width="132" height="132" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/c1b72f82-8835-4b31-b7a6-c0707ee102e0" />
-
-<img width="305" height="201" alt="cert_3" src="https://github.com/user-attachments/assets/4a896a60-004d-4458-86d5-2db3c4e9fba3" />
 
 
 
