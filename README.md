@@ -9,8 +9,12 @@
 - Worked with vendors in migrating Windows Operating System to Android POS (Skytab). 
 
 <h2> Certifications</h2>
-<img width="210" height="41" alt="screentshot_1" src="https://github.com/user-attachments/assets/84d65136-1d50-4c7b-8ceb-ca13eef72845" />
+<img width="306" height="60" alt="image" src="https://github.com/user-attachments/assets/6f2523ee-96d1-4898-9614-28bdf43be1e9" />
+<img width="210" height="41" alt="screentshot_1" src="https://github.com/user-attachments/assets/22472204-f240-4abd-aaf4-19850d69814b" />
 <img width="166" height="38" alt="Screenshot_2" src="https://github.com/user-attachments/assets/26d1933d-a38b-46df-b637-97b8da6fedc8" />
+
+
+
 
 
 
