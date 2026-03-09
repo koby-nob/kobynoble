@@ -4,7 +4,7 @@
 
 - Managed TLS & SHA1 certificate upgrade for Oracle, Micros 3700, e7 POS system for 10K+ merchants for PCI-DSS compliance
   averting $40k+ plus in potential penalties.
-- Coordinated in designing a software bandaid for Windows 7, and Windows NT POS
+- Coordinated in designing a software bandaid( TLS Convertor) for Windows 7, and Windows NT POS
   
      - [TLS Upgrade From SSL to TLS Per PCI Mandate ](https://github.com/koby-nob/TLS_Covertor_Upgrade.git)
   
