@@ -8,7 +8,8 @@
   
      - [TLS Upgrade From SSL to TLS Per PCI Mandate ](https://github.com/koby-nob/TLS_Covertor_Upgrade.git)
   
-- Worked with vendors in migrating Windows Operating (Legacy System) to Android POS (Skytab- cloud based POS). 
+- Worked with vendors in migrating Windows Operating (Legacy System) to Android POS (Skytab- cloud based POS).
+   - [Windows POS Migration to Skytab](https://github.com/koby-nob/POS-Software-Migration.git)
 
 <h2> Certifications</h2>
 
