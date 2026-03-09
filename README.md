@@ -1,4 +1,4 @@
-<h1> <a href="https://www.linkedin.com/in/koby-noble-aa1917140/">Hi I'm Koby, a Security Analyst</a></h1>
+<h1> <a href="https://www.linkedin.com/in/koby-noble-aa1917140/">Hi I'm Koby, a Cyber Security Analyst</a></h1>
 
 <h2> Professional Cybersecurity Projects in a Production Environment:</h2>
 
