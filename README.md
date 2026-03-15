@@ -32,6 +32,8 @@
 - Conducted structured network traffic analysis using wireshark to identify abormal communication patterns, validated host activities,
   and documented findings aligned with SOC triage methodology.
   
+- Certified Blue Team Level 1: Demonstrated practical knowledge across 5 security domains: Phishing Analysis, Threat Intelligence, Digital Forensics, SIEM, and Incident Response.
+  
 - <b>Microsoft Azure</b>
   - [Deploying Active Directory within Micrsoft Azure VMs](https://github.com/koby-nob/Deploying-Active-Directory)
   - [Establish SSH connection between Microsoft Azure VM's](https://github.com/koby-nob/osTicket-Post-Install)
